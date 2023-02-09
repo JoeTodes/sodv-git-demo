@@ -3,7 +3,7 @@
 </script>
 
 <main>
-	<h1>Hello</h1>
+	<h1>I Changed This</h1>
 
 	<div class="card">
 		<Counter />
